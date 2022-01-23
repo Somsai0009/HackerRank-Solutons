@@ -1,1 +1,5 @@
-
+class MyfirstProgramme{
+pulic static void main(String[] args){
+System.out.println("Iam learning java");
+}
+}
